@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<img src="assets/profile-greeting.gif" width="260" alt="开心打招呼的动画" />
+
 <!--
 **omiki1/omiki1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
