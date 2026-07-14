@@ -1,11 +1,13 @@
 <div align="center">
 
+<img src="assets/profile-greeting.gif" width="220" alt="欢迎动画" />
+
 # Hi, I'm Omikiki 👋
 
-### Java Developer · AI Application Explorer · Education Technology
+### Python · AI · Computer Vision · Large Language Models
 
 [![GitHub](https://img.shields.io/badge/GitHub-omiki1-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/omiki1)
-[![Focus](https://img.shields.io/badge/Focus-Java%20%26%20AI-4A90E2?style=for-the-badge)](https://github.com/omiki1)
+[![Focus](https://img.shields.io/badge/Focus-Python%20%26%20AI-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/omiki1)
 
 </div>
 
@@ -13,36 +15,59 @@
 
 ## 👋 About Me
 
-一名关注 **Java 开发、AI 应用与教育数字化** 的开发者。
+一名专注于 **Python、人工智能与计算机视觉** 方向的开发者。
 
-我喜欢把技术能力做成可以直接被用户使用的产品体验，目前持续探索大语言模型在桌面端工具和学习场景中的实际应用。
+我正在系统学习机器学习、深度学习、图像处理、OpenCV 与大语言模型相关知识，并尝试将这些能力应用到教育、创作和效率工具中。
 
-- 🔭 专注于：Java 桌面端开发与 AI 应用集成
-- 🌱 学习方向：大语言模型应用、接口设计与工程化实践
-- 💡 期待探索：教育工具、效率工具与开源协作
+- 🌱 学习方向：机器学习、深度学习、图像处理、计算机视觉、OpenCV、LLM
+- 🔭 实践方向：Python AI 应用、流式交互与创意工具
+- 💡 关注领域：多模态、大语言模型应用与智能化产品体验
+- 🧩 也有 Java 桌面端项目开发经验
 
-## ✨ Featured Project
+## ✨ Featured Projects
+
+### [灵感绿洲 · Inspiration Oasis](https://github.com/omiki1/inspiration-oasis)
+
+基于 **Streamlit** 与 **DeepSeek API** 的 AI 创意写作助手。
+
+提供灵感发散、文案润色、微故事创作与金句生成四种模式，支持流式输出和创意温度调节，并采用沉浸式玻璃拟态界面提升创作体验。
+
+`Python` · `Streamlit` · `OpenAI SDK` · `DeepSeek API` · `python-dotenv`
+
+[查看项目 →](https://github.com/omiki1/inspiration-oasis)
+
+---
 
 ### [智能出题助手](https://github.com/omiki1/intelligent-question-generator)
 
-基于 **Java Swing** 与 **DeepSeek API** 的桌面端智能出题工具。
+基于 Java Swing 与 DeepSeek API 的桌面端智能出题工具，支持主题出题、答题评分与答案解析。
 
-输入知识主题后，应用可自动生成练习题，支持答题、自动评分与答案解析。
+`Java` · `Swing` · `Maven` · `LLM API`
 
-`Java` · `Swing` · `HttpClient` · `Gson` · `Maven` · `LLM API`
+[查看项目 →](https://github.com/omiki1/intelligent-question-generator)
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Learning Path
 
-![Java](https://img.shields.io/badge/Java-17-007396?style=flat-square&logo=openjdk&logoColor=white)
-![Swing](https://img.shields.io/badge/Java%20Swing-4A90E2?style=flat-square)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+
+## 🎯 Current Focus
+
+- 机器学习与深度学习基础
+- 图像处理、目标检测与 OpenCV 实践
+- 大语言模型、多模态与 AI 应用开发
+- 用 Python 持续构建可展示的 AI 项目
 
 ---
 
 <div align="center">
 
-> Keep learning. Keep building. Keep shipping.
+> Learn deeply. Build boldly. Keep moving forward.
+
+欢迎访问我的 [GitHub 主页](https://github.com/omiki1)。⭐
 
 </div>
