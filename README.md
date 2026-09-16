@@ -48,6 +48,18 @@
 
 [查看项目 →](https://github.com/omiki1/agent-learning-engineering)
 
+---
+
+### [网络安全知识问答 RAG 系统](https://github.com/omiki1/cybersecurity-rag-qa)
+
+面向网络安全法规与漏洞知识的检索增强问答系统：先做意图路由判断是否属于安全领域，再以 **Dense 向量 + BM25 关键词 + HyDE 假设文档** 三路召回，经 **Weighted RRF 融合**与 **Cross-Encoder 精排**后交由大模型生成带知识库依据的流式回答，显著降低幻觉。
+
+配套 JWT 认证与 RBAC 三级角色、token 黑名单登出、邮箱验证码登录，以及超过 3 轮后按桶压缩的滚动历史摘要；知识库约 2.2 万条（CVE 通告 + 安全问答对）。
+
+`Python` · `FastAPI` · `Vue 3` · `Chroma` · `BM25 + HyDE` · `RRF` · `Reranker` · `SSE`
+
+[查看项目 →](https://github.com/omiki1/cybersecurity-rag-qa)
+
 ## 📦 其他项目
 
 - **[灵感绿洲 · Inspiration Oasis](https://github.com/omiki1/inspiration-oasis)** — 基于 Streamlit 与 DeepSeek API 的 AI 创意写作助手，四种创作模式与流式输出（`Python` · `Streamlit`）
